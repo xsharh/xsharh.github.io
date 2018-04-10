@@ -4,7 +4,7 @@ SEOTitle: xsharh的博客 | xsharh
 header-img: img/post-bg-desk.jpg
 email: xsharh@gmail.com
 description: "Every failure is leading towards success."
-keyword: "xsharh, Xsharh的博客, xsharh, C, java, Python"
+keyword: "xsharh, xsharh的博客, xsharh, C, java, Python"
 url: "https://xsharh.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xsharh/xsharh.github.io.git" # you code repository
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 84de600a4bd2357725e4                            #生成的clientID
   clientSecret: 248626432c17fee3ee091025094132591e527073    #生成的clientSecret
-  repo: Xsharh.github.io    #仓库名称
-  owner: Xsharh    #github用户名
-  admin: Xsharh
+  repo: xsharh.github.io    #仓库名称
+  owner: xsharh    #github用户名
+  admin: xsharh
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
