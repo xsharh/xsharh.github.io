@@ -1,10 +1,10 @@
 # Site settings
-title: xsharh
-SEOTitle: xsharh的博客 | xsharh
+title: xshope
+SEOTitle: xshope的博客 | xshope
 header-img: img/post-bg-desk.jpg
 email: xsharh@gmail.com
 description: "Every failure is leading towards success."
-keyword: "xsharh, xsharh的博客, xsharh, C, java, Python"
+keyword: "xshope, xshope的博客, xshope, C, java, Python"
 url: "https://xsharh.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xsharh/xsharh.github.io.git" # you code repository
